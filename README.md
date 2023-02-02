@@ -13,7 +13,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=emismont&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
- 
+</div>
+<div style="display: inline_block"><br>
+  <img height="130em" align="right" alt="Gif" src="https://tenor.com/view/ariana-blows-kiss-ariana-grande-alzolanskii-gif-19736456.gif">
+</div>
+
  ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
